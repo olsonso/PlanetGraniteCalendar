@@ -1,1 +1,1 @@
-![alt text](https://github.com/olsonso/DanceOffReact/blob/master/pg.png)
+![alt text](https://github.com/olsonso/PlanetGraniteCalendar/blob/master/pg.png)
